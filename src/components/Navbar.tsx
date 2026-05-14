@@ -36,8 +36,7 @@ export default function Navbar() {
                 <span className="text-white font-bold text-xl">A</span>
               </div>
               <span className={`font-bold text-xl tracking-tight ${isScrolled ? 'text-slate-900' : 'text-slate-900 lg:text-white'}`}>
-                Elite Dental Clinic
-              </span>
+                Dr Nishant Dental Clinic              </span>
             </a>
           </div>
 
@@ -100,7 +99,7 @@ export default function Navbar() {
             </div>
             <div className="pt-3 px-3">
               <a
-                href="tel:++91 7619999974"
+                href="tel:++91 8429998602"
                 className="w-full flex items-center justify-center gap-2 bg-emerald-50 text-emerald-600 px-4 py-3 rounded-xl font-semibold hover:bg-emerald-100"
               >
                 <Phone size={18} />

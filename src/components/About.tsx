@@ -30,7 +30,7 @@ export default function About() {
               />
               <div className="absolute inset-0 bg-gradient-to-t from-slate-900/60 to-transparent"></div>
               <div className="absolute bottom-6 left-6 right-6 text-white">
-                <h3 className="text-2xl font-bold mb-1">Dr. Sharma</h3>
+                <h3 className="text-2xl font-bold mb-1">Dr. Nishant </h3>
                 <p className="text-slate-200 font-medium">BDS, MDS - Chief Dentist</p>
               </div>
             </div>

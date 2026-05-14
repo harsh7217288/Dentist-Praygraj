@@ -7,8 +7,7 @@ export default function Contact() {
         <div className="text-center max-w-3xl mx-auto mb-16">
           <span className="text-blue-600 font-bold tracking-wider uppercase text-sm mb-4 block">Get in Touch</span>
           <h2 className="text-3xl md:text-5xl font-bold text-slate-900 mb-6 leading-tight">
-            Visit Elite Dental Clinic
-          </h2>
+            Visit Dr Nishant Dental Clinic          </h2>
           <p className="text-lg text-slate-600 leading-relaxed">
             We are conveniently located in Teliarganj, Prayagraj. Drop by or call us to schedule your visit.
           </p>
@@ -33,10 +32,10 @@ export default function Contact() {
             </div>
             <h3 className="text-xl font-bold text-slate-900 mb-3">Contact Details</h3>
             <p className="text-slate-600 leading-relaxed mb-2">
-              <a href="tel:+91 7619999974" className="hover:text-emerald-600 transition-colors font-medium">+91 7619999974</a>
+              <a href="tel:+91 8429998602" className="hover:text-emerald-600 transition-colors font-medium">+91 8429998602</a>
             </p>
             <p className="text-slate-600 leading-relaxed">
-              <a href="mailto:info@elitedental.com" className="hover:text-emerald-600 transition-colors font-medium">info@elitedental.com</a>
+              <a href="mailto:info@nishantdental.com" className="hover:text-emerald-600 transition-colors font-medium">info@nishantdental.com</a>
             </p>
           </div>
 

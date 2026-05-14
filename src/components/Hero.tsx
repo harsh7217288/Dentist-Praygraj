@@ -22,8 +22,7 @@ export default function Hero() {
             transition={{ duration: 0.8 }}
           >
             <span className="inline-block py-1 px-3 rounded-full bg-blue-500/20 text-blue-200 text-sm font-semibold tracking-wider uppercase mb-4 border border-blue-400/30">
-              Elite Dental Clinic
-            </span>
+              Dr Nishant Dental Clinic            </span>
 
             <h1 className="text-4xl md:text-6xl font-bold text-white leading-tight mb-4">
               Your Smile, <br />
@@ -39,7 +38,7 @@ export default function Hero() {
                 <Calendar size={20} />
                 Book Appointment
               </a>
-              <a href="tel:+91 7619999974" className="inline-flex justify-center items-center gap-2 bg-white/10 backdrop-blur-md text-white border border-white/20 px-8 py-4 rounded-xl font-semibold text-lg hover:bg-white/20 transition-all hover:-translate-y-1">
+              <a href="tel:+91 8429998602" className="inline-flex justify-center items-center gap-2 bg-white/10 backdrop-blur-md text-white border border-white/20 px-8 py-4 rounded-xl font-semibold text-lg hover:bg-white/20 transition-all hover:-translate-y-1">
                 <Phone size={20} />
                 Call Now
               </a>

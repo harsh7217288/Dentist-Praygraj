@@ -76,8 +76,8 @@ export default function Appointment() {
                 </div>
                 <div>
                   <h4 className="font-bold text-lg">Emergency Contact</h4>
-                  <a href="tel:+91 7619999974" className="text-emerald-200 hover:text-white transition-colors text-xl font-semibold">
-                    +91 7619999974
+                  <a href="tel:+91 8429998602" className="text-emerald-200 hover:text-white transition-colors text-xl font-semibold">
+                    +91 8429998602
                   </a>
                 </div>
               </div>

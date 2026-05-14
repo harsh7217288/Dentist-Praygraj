@@ -1,0 +1,83 @@
+# Query: smile
+# ContextLines: 1
+
+21 results - 8 files
+
+index.html:
+   5      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   6:     <title>S Studio Dental Clinic | Best Dentist in Prayagraj</title>
+   7:     <meta name="description" content="Top-rated dental clinic in Prayagraj offering Teeth Cleaning, Root Canal, Braces, and Implants. Book your appointment today at Smile Studio Dental Clinic." />
+   8      <meta name="keywords" content="Dentist in Prayagraj, Dental Clinic Prayagraj, Best Dentist, Root Canal, Teeth Whitening, Dental Implants" />
+
+  11      <meta property="og:type" content="website" />
+  12:     <meta property="og:title" content="Smile Studio Dental Clinic | Best Dentist in Prayagraj" />
+  13      <meta property="og:description" content="Top-rated dental clinic in Prayagraj offering Teeth Cleaning, Root Canal, Braces, and Implants. Book your appointment today." />
+
+  19        "@type": "Dentist",
+  20:       "name": "Smile Studio Dental Clinic",
+  21        "image": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&q=80&w=800",
+  22        "@id": "",
+  23:       "url": "https://smilestudioprayagraj.com",
+  24        "telephone": "+919876543210",
+
+metadata.json:
+  1  {
+  2:   "name": "Smile Studio Dental Clinic",
+  3:   "description": "Premium, fast-loading, fully responsive website for Smile Studio Dental Clinic in Prayagraj.",
+  4    "requestFramePermissions": []
+
+src\components\About.tsx:
+  26                  src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&q=80&w=800"
+  27:                 alt="Dr. at Smile Studio"
+  28                  className="w-full h-[500px] object-cover"
+
+  51              <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-6 leading-tight">
+  52:               We Create Beautiful Smiles in Prayagraj
+  53              </h2>
+  54              <p className="text-lg text-slate-600 mb-8 leading-relaxed">
+  55:               At Smile Studio Dental Clinic, we believe that a healthy smile is the foundation of overall well-being. Located in the heart of Teliarganj, Prayagraj, our clinic is equipped with state-of-the-art technology to provide you with the best dental care possible.
+  56              </p>
+
+src\components\Appointment.tsx:
+  55              <h2 className="text-3xl md:text-5xl font-bold mb-6 leading-tight">
+  56:               Ready to Transform Your Smile?
+  57              </h2>
+
+src\components\BeforeAfter.tsx:
+   90        title: 'Dental Crowns & Bridges',
+   91:       description: 'Restored missing and damaged front teeth with custom-matched ceramic crowns, giving the patient a complete and natural-looking smile.',
+   92        // Replace these URLs with the actual paths to your uploaded images
+
+  112            <h2 className="text-3xl md:text-5xl font-bold text-slate-900 mb-6 leading-tight">
+  113:             Transforming Smiles Daily
+  114            </h2>
+
+src\components\Footer.tsx:
+  18              <p className="text-slate-400 leading-relaxed mb-6">
+  19:               Premium dental care in Prayagraj. We are dedicated to providing you with the best treatments for a healthy, beautiful smile.
+  20              </p>
+
+src\components\Hero.tsx:
+  28              <h1 className="text-4xl md:text-6xl font-bold text-white leading-tight mb-4">
+  29:               Your Smile, <br />
+  30                <span className="text-blue-400">Our Priority</span>
+
+  33              <p className="text-lg md:text-xl text-slate-300 mb-6 leading-relaxed max-w-xl">
+  34:               Experience premium dental care in Prayagraj. We combine advanced technology with compassionate care to give you the perfect smile.
+  35              </p>
+
+src\components\Services.tsx:
+   1  import { motion } from 'motion/react';
+   2: import { Sparkles, Activity, ShieldPlus, Smile, Zap } from 'lucide-react';
+   3  
+
+   7      title: 'Teeth Cleaning',
+   8:     description: 'Professional scaling and polishing to remove plaque and tartar for a brighter smile.',
+   9    },
+
+  22      title: 'Teeth Whitening',
+  23:     description: 'Instant laser teeth whitening for a dazzling, confident smile in just one visit.',
+  24    },
+  25    {
+  26:     icon: <Smile className="w-10 h-10 text-rose-500" />,
+  27      title: 'Dental Implants',

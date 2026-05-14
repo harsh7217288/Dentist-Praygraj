@@ -12,8 +12,7 @@ export default function Footer() {
                 <span className="text-white font-bold text-xl">S</span>
               </div>
               <span className="font-bold text-xl tracking-tight text-white">
-                 Elite Dental Clinic
-              </span>
+                 Dr Nishant Dental Clinic              </span>
             </a>
             <p className="text-slate-400 leading-relaxed mb-6">
               Premium dental care in Prayagraj. We are dedicated to providing you with the best treatments for a healthy, beautiful smile.
@@ -65,11 +64,11 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-blue-500 flex-shrink-0" />
-                <a href="tel:+91 7619999974" className="hover:text-blue-400 transition-colors">+91 7619999974</a>
+                <a href="tel:+91 8429998602" className="hover:text-blue-400 transition-colors">+91 8429998602</a>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-blue-500 flex-shrink-0" />
-                <a href="mailto:info@elitedental.com" className="hover:text-blue-400 transition-colors">info@elitedental.com</a>
+                <a href="mailto:info@nishantdental.com" className="hover:text-blue-400 transition-colors">info@nishantdental.com</a>
               </li>
             </ul>
           </div>

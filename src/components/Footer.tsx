@@ -76,7 +76,7 @@ export default function Footer() {
 
         <div className="pt-8 border-t border-slate-800 text-center md:flex md:justify-between md:text-left">
           <p className="text-slate-500 mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} Elite Dental Clinic. All rights reserved.
+            &copy; {new Date().getFullYear()} Dr Nishant Dental Clinic. All rights reserved.
           </p>
           <div className="space-x-4 text-slate-500">
             <a href="#" className="hover:text-slate-300 transition-colors">Privacy Policy</a>
